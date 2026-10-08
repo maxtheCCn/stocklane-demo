@@ -1,0 +1,1 @@
+import{e as o}from"./chunk-OB3PAWPO-toPPTkQS.js";import{b as n}from"./index-CfYRzcI4.js";import"./jsx-runtime-DVyqG1ty.js";const m=o(function({error:r}){return n.error(r)});export{m as ErrorBoundary};

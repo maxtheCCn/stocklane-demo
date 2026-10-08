@@ -1,0 +1,5 @@
+/*.data
+  Content-Type: text/x-script; charset=utf-8
+  Cache-Control: no-cache
+/demo-static/*
+  Cache-Control: no-cache

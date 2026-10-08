@@ -1,0 +1,1 @@
+import{a as e}from"./button-DHxv0uQO.js";const a={name:"code-xml",size:24,node:[["path",{d:"m18 16 4-4-4-4",key:"1inbqp"}],["path",{d:"m6 8-4 4 4 4",key:"15zrgr"}],["path",{d:"m14.5 4-5 16",key:"e7oirm"}]],aliases:["code-2"]};a.node;const s=e(a);const o={name:"minus",size:24,node:[["path",{d:"M5 12h14",key:"1ays0h"}]]};o.node;const t=e(o);export{s as C,t as M};
