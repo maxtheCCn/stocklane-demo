@@ -7,3 +7,5 @@ Everything here is static: pre-rendered pages plus the data each page needs. The
 no database, so nothing you click is saved — saving shows a "read-only demo" notice instead.
 
 Generated from the application with `scripts/static-export.mjs` in the Stocklane repository.
+
+Built from the Stocklane repository.
